@@ -1,0 +1,5 @@
+<h2>Baktoid BK1 Battle Droid</h2>
+<img src="http://static2.wikia.nocookie.net/__cb20121228102409/starwars/images/thumb/c/cd/Battle_Droid.png/250px-Battle_Droid.png" align="right" width=250>
+<p>B1 battle droids were battle droids that made up the backbone of the Trade Federation Droid Army and the Separatist Droid Army. Often called "Clankers" by Galactic Republic clone troopers, they were the successor of both the HKB-3 hunter-killer droid and the OOM-series battle droid.</p>
+<p>Since the Clone Wars, the droids have been repurposed into security, governmental duties, and some regional armed forces.  In some sectors, they remain illegial for private citizens to own.</p>
+<p>Battle droids used E-5 blaster rifles, blaster pistols, and thermal detonators in combat, but were able to take down an enemy in hand-to-hand combat as seen in the Battle of Grassy Plains where battle droids were able to take Gungan soldiers one-on-one.</p>

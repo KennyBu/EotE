@@ -1,0 +1,1 @@
+<img src="images/chefbot.jpg" align="right" >
